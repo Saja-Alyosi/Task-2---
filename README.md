@@ -1,11 +1,5 @@
 # User Management Dashboard
 
-A sophisticated CRUD application designed for efficient user lifecycle management with a contemporary glassmorphic UI and real-time state management capabilities.
-
-## Overview
-
-This application demonstrates modern web development practices with a focus on clean architecture, responsive design, and seamless user experience. Built with vanilla PHP and MySQL, it showcases best practices in database operations and frontend interactivity.
-
 ## Key Features
 
 🎯 **Full CRUD Operations** - Create, retrieve, update, and manage user records  
@@ -177,19 +171,3 @@ Extend the `user` table with additional fields and update the HTML table structu
 - [ ] Admin activity logging
 - [ ] Email notifications
 
-## License
-
-MIT License - Free for commercial and personal use
-
-## Contributing
-
-Contributions are welcome! Please ensure code follows PSR-12 standards and includes appropriate error handling.
-
-## Support
-
-For issues or questions, please open an issue in the repository.
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: 2024
