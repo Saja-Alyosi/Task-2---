@@ -9,13 +9,6 @@
 🔒 **Prepared Statements** - SQL injection prevention through parametrized queries  
 ✨ **Dynamic Feedback** - Toast notifications for user actions
 
-## Technology Stack
-
-- **Backend**: PHP 7.4+
-- **Database**: MySQL 5.7+
-- **Frontend**: Vanilla JS, HTML5, CSS3
-- **Design**: Tailwind-inspired custom styling with backdrop filters
-
 ## Project Architecture
 
 ```
