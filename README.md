@@ -20,13 +20,3 @@ user-management/
 ├── update.php          # Status toggle functionality
 └── README.md
 ```
-
-### File Responsibilities
-
-| File | Purpose |
-|------|---------|
-| `config.php` | Singleton PDO connection with error handling |
-| `index.php` | Primary UI with form and data table |
-| `insert.php` | POST handler for new user records |
-| `select.php` | Query function for retrieving users |
-| `update.php` | Status toggle with redirect logic |
