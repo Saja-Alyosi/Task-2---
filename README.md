@@ -37,27 +37,3 @@ user-management/
 | `insert.php` | POST handler for new user records |
 | `select.php` | Query function for retrieving users |
 | `update.php` | Status toggle with redirect logic |
-
-## API Endpoints
-
-### GET `/index.php`
-Displays the dashboard with all users and notifications
-
-**Query Parameters:**
-- `msg=added` - Success notification for new user
-- `msg=updated` - Success notification for status change
-- `msg=error` - Error notification
-
-### POST `/insert.php`
-Creates a new user record
-
-**Required Parameters:**
-- `name` - User full name (string)
-- `age` - User age (integer)
-
-### GET `/update.php`
-Toggles user status between active/inactive
-
-**Query Parameters:**
-- `id` - User ID (integer)
-
