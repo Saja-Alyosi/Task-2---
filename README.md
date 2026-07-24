@@ -17,6 +17,6 @@ user-management/
 ├── index.php           # Dashboard interface & data display
 ├── insert.php          # User creation endpoint
 ├── select.php          # Data retrieval function
-├── update.php          # Status toggle functionality
-└── README.md
+└── update.php          # Status toggle functionality
+ 
 ```
